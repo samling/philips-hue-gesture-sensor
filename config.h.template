@@ -1,0 +1,15 @@
+/*
+ * config.h
+ * Copyright (C) 2018 sboynton <sboynton@c02sg09ng8wq-sboynton.lan>
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define wifiName "wifi_ssid"
+#define wifiPass "wifi_pass"
+#define apiEndpoint = "http://<hue_ip>/api/<api_key>"
+
+#endif /* !CONFIG_H */
